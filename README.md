@@ -1,7 +1,7 @@
 # 📚 Modern Java In Action
 > 전문가를 위한 자바 8, 9, 10 기법 가이드
 
-![modern java](https://github.com/FireInStove/toby-spring/assets/52412936/4035d2d9-2f2a-4296-aaa4-edd82711a566)
+![9791162242025](https://github.com/FireInStove/toby-spring/assets/52412936/4e2bf462-cb5f-466c-89c7-bb99696826e2)
 
 ## 🧑🏻‍💻 스터디원
 * 김인석 (@aimhigh53)
