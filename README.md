@@ -26,4 +26,4 @@
 <br>
 
 ## 🔗 Reference
-* 도서 정보 - [교보문고 도서 정보 페이지]([https://product.kyobobook.co.kr/detail/S000000935360](https://product.kyobobook.co.kr/detail/S000001810171)https://product.kyobobook.co.kr/detail/S000001810171)
+* 도서 정보 - [교보문고 도서 정보 페이지](https://product.kyobobook.co.kr/detail/S000001810171)
